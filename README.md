@@ -83,8 +83,8 @@ Check out the live demo of this project:
 
 ## 📱 Follow Me on Social Media
 
-* Instagram: [https://instagram.com/yourusername](https://instagram.com/nonetechdevelopers)
-* Facebook: [https://facebook.com/yourusername](https://facebook.com/nonetechdevelopers)
+* Instagram: [https://instagram.com/nonetechdevelopers](https://instagram.com/nonetechdevelopers)
+* Facebook: [https://facebook.com/nonetechdevelopers](https://facebook.com/nonetechdevelopers)
 * LinkedIn: [https://www.linkedin.com/in/imsiddharthkumar/](https://www.linkedin.com/in/imsiddharthkumar/)
 
 ---
